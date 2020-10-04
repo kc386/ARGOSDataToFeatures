@@ -1,2 +1,2 @@
-
-.spyproject/config/defaults/defaults-codestyle-0.2.0.ini
+#Ignore Spyder project files
+.spyproject/*
