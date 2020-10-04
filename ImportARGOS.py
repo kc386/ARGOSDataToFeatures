@@ -9,3 +9,6 @@
 ## Created: Fall 2020
 ## Author: Kimberly.corcoran@duke.edu (for ENV859)
 ##---------------------------------------------------------------------
+
+# Import modules
+import sys, os, arcpy
